@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ModMetaData>
+	<name>D before the name</name>
+	<author>Brassqund</author>
+	<targetVersion>0.16.1393</targetVersion>
+	<description>When an item was worned by a corpse, the D is before the name of the item and not after</description>
+</ModMetaData>
